@@ -1,2 +1,6 @@
 # webbrutefile
-Bruteforce de arquivos e diretorios WEB
+
+uso: 
+<code>
+php brutedir.php http://site.com
+</code>
